@@ -3,7 +3,8 @@
 [![BurpazorTechnologies's GitHub stats](https://github-readme-stats-seven-alpha-14.vercel.app/api?username=BurpazorTechnologies&show_icons=true&theme=dark)](https://github.com/BurpazorTechnologies/github-readme-stats)
 
 ### 🏆 Most Used Languages
-[![Top Langs](https://github-readme-stats-seven-alpha-14.vercel.app/api/top-langs/?username=BurpazorTechnologies&layout=compact&langs_count=20&hide=html,css,scss,less,handlebars&theme=dark)](https://github.com/BurpazorTechnologies/github-readme-stats)
+[![Top Langs](https://github-readme-stats-seven-alpha-14.vercel.app/api/top-langs/?username=BurpazorTechnologies&layout=compact&langs_count=12&hide=html,css,scss,less,handlebars&theme=dark)](https://github.com/BurpazorTechnologies/github-readme-stats)
+
 
 ### 📈 GitHub Streak
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=BurpazorTechnologies&theme=dark&hide_border=false)](https://git.io/streak-stats)
